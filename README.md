@@ -3,6 +3,30 @@
 ### :construction: Readme em construção :construction:
 
 ## O que é o Proffy?
-Proffy é uma plataforma online de estudos, onde o usuário pode escolher entre dar suas aulas, ou estudar com o professor escolhido.
+Proffy é uma plataforma online de estudos, conectando professores e estudantes. Projeto feito na NLW#02 da @RocketSeat
 
-Alguns destaques da aplicação são: **Versão Mobile**, **Filtragem de professores** e **Conexão entre o Mobile com a versão Web**.
+## Instalação
+```sh
+$ git clone https://github.com/gabrielvbauer/Proffy
+```
+
+### Servidor
+```sh
+$ cd server
+$ yarn install
+$ yarn start
+```
+
+### Web
+```sh
+$ cd web
+$ yarn install
+$ yarn start
+```
+
+### Mobile
+```sh
+$ cd mobile
+$ yarn install
+$ yarn start
+```
